@@ -11,7 +11,7 @@
         "SUDO": {
             "description": "Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
             "required": false,
-            "value": "918136962641"
+            "value": "1234567890"
         },
         "HANDLERS": {
             "description": "enter handlers.",
@@ -65,11 +65,6 @@
             "description": "Enter jid seprated with ,.",
             "required": false,
             "value": "false"
-        },
-        "ERROR_NUM": {
-            "description": "Enter a number to receive errors.",
-            "required": false,
-            "value": "918136962641"
         },
         "EEXT": {
             "description": "Enter xteam api",
