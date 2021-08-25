@@ -8,7 +8,7 @@ WhatsAsena written by [Yusuf Usta](https://github.com/Quiec) has no more support
  -->
 <!-- [![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena) -->
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J0kerser/bot)
 
 <!-- ## Thanks To
 
